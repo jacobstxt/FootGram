@@ -7,7 +7,7 @@
             data.forEach(item => {
                     list_news.innerHTML += 
                     `
-                <div class="max-w-sm scale-70 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
+                <div class="max-w-sm scale-80 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
                     <a href="#">
                         <img class="p-8 rounded-t-lg" src="${item.imageUrl}" alt="product image" />
                     </a>
