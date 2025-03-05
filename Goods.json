@@ -23,10 +23,41 @@
         "price": "1250₴"
     },
     {
-        "title": "Джерсі Real Madrid",
+        "title": "Джерсі Shahtar Donetsk",
         "imageUrl": "/Images/Adobe Express - file6.png",
         "price": "1400₴"
+    },
+    {
+        "title": "Джерсі Dynamo Kyiv",
+        "imageUrl": "/Images/Adobe Express - file7.png",
+        "price": "899₴"
+    },
+    {
+        "title": "Джерсі Chelsea",
+        "imageUrl": "/Images/Adobe Express - file8.png",
+        "price": "1999₴"
+    },
+    {
+        "title": "Джерсі Karpaty Lviv",
+        "imageUrl": "/Images/Adobe Express - file9.png",
+        "price": "1500₴"
+    },
+    {
+        "title": "Джерсі Barcelona",
+        "imageUrl": "/Images/Adobe Express - file10.png",
+        "price": "1399₴"
+    },
+    {
+        "title": "Джерсі Bayern",
+        "imageUrl": "/Images/Adobe Express - file11.png",
+        "price": "199₴"
+    },
+    {
+        "title": "Джерсі PSG",
+        "imageUrl": "/Images/Adobe Express - file12.png",
+        "price": "1599₴"
     }
+
 
 
 ]
